@@ -1,0 +1,39 @@
+
+
+.image-content-body {
+  font-size: 1em;
+  letter-spacing: 0.1em;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-top: 2%;
+}
+
+.sub-content {
+  font-size: 0.75em;
+}
+
+.vertical-container-fluid {
+  padding-top: 3%;
+  padding-bottom: 3%;
+  height: 100%;
+}
+
+.logoImage {
+  margin: 0 2% 0 2%;
+}
+
+.logoImage img {
+  margin: 0 0 0 0;
+  box-shadow: 0px 0px 0px 0px;
+}
+
+.skills-img {
+  position: relative;
+  width: 40%;
+}
+
+.content-img {
+  position: relative;
+  align-items: center;
+  text-align: center;
+}
