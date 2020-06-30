@@ -4,8 +4,13 @@
   box-sizing: border-box;
 }
 
-html, body {
-  font-size: calc(1em + .3vw);
+p {
+  font-size: 0.8em;
+}
+
+html,
+body {
+  font-size: calc(1em + 0.3vw);
   width: 100%;
   height: 100%;
   padding: 0px;
@@ -33,7 +38,7 @@ section {
   position: fixed !important;
   top: 0px;
   width: 100%;
-  z-index: 4;
+  z-index: 2;
   opacity: 0.9;
 }
 
@@ -48,7 +53,14 @@ section {
   left: 0;
   width: 100%;
   height: 100vh;
-  background: linear-gradient(45deg, #525252, #414141, #44000d, #313131, rgb(32, 35, 48));
+  background: linear-gradient(
+    45deg,
+    #525252,
+    #414141,
+    #44000d,
+    #313131,
+    rgb(32, 35, 48)
+  );
   background-size: 1000% 1000%;
   -webkit-animation: AnimationName 12s ease infinite;
   -moz-animation: AnimationName 12s ease infinite;
@@ -87,7 +99,7 @@ section {
 }
 
 .hero::after {
-  content: "";
+  content: '';
   background: black;
   width: 100%;
   height: 100%;
@@ -104,7 +116,7 @@ section {
   transform: translate(-20%, -70%);
   color: white;
   z-index: 3;
-  left: 10%
+  left: 10%;
 }
 
 /* INTRO */
@@ -131,7 +143,6 @@ section {
 
 .centeredTitle {
   align-self: center;
-  font-size: 1.25em;
   margin: 0 auto 0 auto;
   text-align: center;
   padding-top: 40px;
@@ -144,7 +155,6 @@ section {
 }
 
 .centeredSubTitle {
-  font-size: 1.3em;
   padding-bottom: 0px;
   text-align: center;
   text-transform: none;
@@ -158,8 +168,6 @@ section {
 }
 
 /* FOOTER */
-
-
 
 .footer {
   background-color: #e7dfd5;
@@ -180,8 +188,8 @@ section {
 #connect #subtext {
   margin: 3%;
   text-transform: uppercase;
-  font-size: .8em;
-  opacity: .7;
+  font-size: 0.8em;
+  opacity: 0.7;
 }
 
 #connect a {
@@ -199,46 +207,46 @@ section {
 /* extra */
 @-webkit-keyframes AnimationName {
   0% {
-    background-position: 82% 0%
+    background-position: 82% 0%;
   }
 
   50% {
-    background-position: 19% 100%
+    background-position: 19% 100%;
   }
 
   100% {
-    background-position: 82% 0%
+    background-position: 82% 0%;
   }
 }
 
 @-moz-keyframes AnimationName {
   0% {
-    background-position: 82% 0%
+    background-position: 82% 0%;
   }
 
   50% {
-    background-position: 19% 100%
+    background-position: 19% 100%;
   }
 
   100% {
-    background-position: 82% 0%
+    background-position: 82% 0%;
   }
 }
 
 @keyframes AnimationName {
   0% {
-    background-position: 82% 0%
+    background-position: 82% 0%;
   }
 
   50% {
-    background-position: 19% 100%
+    background-position: 19% 100%;
   }
 
   100% {
-    background-position: 82% 0%
+    background-position: 82% 0%;
   }
 }
 
-.container-buffer{
-	padding: 3%;
+.container-buffer {
+  padding: 3%;
 }
