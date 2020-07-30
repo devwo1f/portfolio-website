@@ -16,6 +16,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
   <link rel="manifest" href="/images/site.webmanifest">
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap" rel="stylesheet">
   <title>Abhay</title>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -34,7 +35,15 @@
 
 </head>
 
-<body>
+<body onload="loading()">
+
+
+  <div id="pre-loader-container">
+    <div class="spinner">
+      <div class="double-bounce1"></div>
+      <div class="double-bounce2"></div>
+    </div>
+  </div>
 
   <header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -820,6 +829,14 @@
     crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.4/gsap.min.js"
     integrity="sha256-XDWrid8aGX+NZwSY7JzTu6oWArI71Sw+aUZ9Hd0P5mo=" crossorigin="anonymous"></script>
+
+  <script>
+    var preLoader = document.getElementById('pre-loader-container');
+    function loading() {
+      preLoader.style.display = 'none';
+    }
+  </script>
+
 </body>
 
 </html>
