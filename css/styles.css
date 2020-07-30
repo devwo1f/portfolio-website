@@ -120,7 +120,14 @@ section {
 }
 
 /* INTRO */
-.profile-img {
+
+svg {
+  display: block;
+  margin: auto;
+  max-width: 400px;
+  margin-top: 15px;
+}
+.self-poly {
   margin: auto auto auto auto;
 }
 
@@ -131,7 +138,7 @@ section {
   background-color: rgb(32, 35, 48);
   padding: 0;
   margin: 0;
-  min-width: 10vh;
+  min-height: 100vh;
 }
 
 .container-fluid {
@@ -172,7 +179,7 @@ section {
 .footer {
   background-color: #e7dfd5;
 }
-
+ 
 .footer-title {
   text-transform: uppercase;
 }
