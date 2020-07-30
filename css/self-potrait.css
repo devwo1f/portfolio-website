@@ -1,0 +1,308 @@
+
+.st0:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st1:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st2:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st3:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st4:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st5:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st6:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st7:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st8:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st9:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st10:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st11:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st12:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st13:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st14:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st15:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st16:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st17:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st18:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st19:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st20:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st21:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st22:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st23:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st24:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st25:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st26:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st27:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st28:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st29:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st30:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st31:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st32:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st33:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st34:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st35:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st36:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st37:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st38:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st39:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st40:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st41:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st42:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st43:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st44:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st45:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st46:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st47:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st48:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st49:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st50:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st51:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st52:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st53:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st54:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st55:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st56:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st57:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st58:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st59:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st60:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st61:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st62:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st63:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st64:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st65:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st66:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st67:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st68:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st69:hover {
+  animation: none;
+  cursor: crosshair; }
+
+.st70:hover {
+  animation: none;
+  cursor: crosshair; }
+
+
+
+.self-portrait polygon {
+  fill-opacity: 0;
+  stroke: papayawhip;
+  stroke-width: 1;
+  stroke-dasharray: 252;
+  stroke-dashoffset: 252;
+  animation: draw 15s linear forwards; }
+
+@keyframes draw {
+  0% {
+    fill-opacity: 0; }
+  60% {
+    fill-opacity: 1; }
+  80% {
+    stroke-dashoffset: 0;
+    stroke-width: 0; }
+  100% {
+    fill-opacity: 1;
+    stroke-width: 0;
+    stroke-dashoffset: 0; } }
+
